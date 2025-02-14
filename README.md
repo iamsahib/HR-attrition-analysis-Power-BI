@@ -1,4 +1,4 @@
-# HR-attrition-ana-ysis-Power-BI
+# HR-attrition-analysis-Power-BI
 
 Objective 
 
