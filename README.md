@@ -45,3 +45,6 @@ Implement transparent promotion criteria and conduct regular performance apprais
 Recognize high performers with fast-track career paths.
 
 
+![Screenshot 2025-02-14 174825](https://github.com/user-attachments/assets/08235d1d-7a23-474b-beca-b4d98ec01050)
+
+
