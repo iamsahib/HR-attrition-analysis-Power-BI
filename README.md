@@ -1,10 +1,10 @@
 # HR-attrition-analysis-Power-BI
 
-Objective 
+**Objective** 
 
 The project aims to identify key factors influencing employee turnover, uncover trends, and provide actionable insights for improving retention strategies. Through data modeling, DAX calculations, and dynamic visualizations, this analysis helps HR professionals make data-driven decisions to enhance workforce stability and engagement.
 
-Insights:
+**Insights**:
 
 Gender Disparity : Male employee slightly higher attrition rate(16.99%) as compare to female employee(14.72%).
 Education Impact : Employee with a human resource have the highest attrition rate(25.93%) followed by technical degree(24.24%).
@@ -12,7 +12,7 @@ Age Tread : The 26-35 age group experience highest attrition rate(48.73%),while 
 Job Role Analysis : Sales Executive have highest attrition rate(17.63%) followed by research scientist(16.04%).
 Salary impact : Employee in lowest salary slab (upto 5K) have the highest attrition rate(68.48%). 
 
-Recommendations : 
+**Recommendations** : 
 
 Enhance Career Growth & Development:
 
