@@ -19,27 +19,27 @@ Enhance Career Growth & Development:
 Implement structured mentorship programs and career progression plans to retain young talent.
 Provide upskilling and internal mobility opportunities to keep employees engaged.
 
-Improve Compensation & Benefits:
+**Improve Compensation & Benefits:**
 
 Conduct market salary benchmarking to ensure competitive pay.
 Offer performance-based incentives and bonuses to boost retention.
 
-Optimize Work-Life Balance Policies:
+**Optimize Work-Life Balance Policies:**
 
 Introduce flexible work arrangements, such as remote work or hybrid models.
 Reduce excessive overtime and ensure better workload distribution.
 
-Strengthen Employee Engagement & Culture:
+**Strengthen Employee Engagement & Culture:**
 
 Conduct stay interviews to understand why employees stay and act on feedback.
 Organize team-building activities and employee wellness programs.
 
-Revamp Onboarding & Early Retention Strategies:
+**Revamp Onboarding & Early Retention Strategies:**
 
 Improve new hire orientation and training to boost early engagement.
 Assign buddies or mentors to new employees for better integration.
 
-Regular Performance & Promotion Reviews:
+**Regular Performance & Promotion Reviews:**
 
 Implement transparent promotion criteria and conduct regular performance appraisals.
 Recognize high performers with fast-track career paths.
